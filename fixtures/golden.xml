@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+  <addresses>
+  <address name="web1">
+    <ip-netmask>10.1.1.10</ip-netmask>
+  </address>
+  <address name="db1">
+    <ip-netmask>10.1.1.20</ip-netmask>
+  </address>
+  </addresses>
+  <zones>
+  <zone name="wan">
+    <network>untrust</network>
+  </zone>
+  <zone name="internal">
+    <network>trust</network>
+  </zone>
+  </zones>
+</config>

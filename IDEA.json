@@ -1,0 +1,15 @@
+{
+  "idea": "Create a simple interface to convert jpg image to pdf. All white and just a button to upload and covnert button.",
+  "problem": "Create a simple interface to convert jpg image to pdf.",
+  "product": "simple-interface-convert",
+  "users": "People who need: Create a simple interface to convert jpg image to pdf. All white and just a button to upl…",
+  "success": [
+    "Ship a working v1 for: Create a simple interface to convert jpg image to pdf. All white and just a button to upload and co…",
+    "Run it locally as a Node CLI (`simple-interface-convert`)",
+    "Publish so colleagues can try `npx @tufayl/simple-interface-convert`"
+  ],
+  "npm": "@tufayl/simple-interface-convert",
+  "github": "TufaylAhmed",
+  "createdAt": "2026-10-19T10:03:46.352Z",
+  "source": "launchpad-terminal"
+}
